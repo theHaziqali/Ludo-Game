@@ -1,0 +1,11 @@
+make two general varibales for each color and use them to caculate the movement than pass the value to the array of that color
+write general conditions which would determie the movement on the board
+maybe only two varilables would do the work instead of each and every color hs his own seprate two variable
+try to implement the conditions on these two varibles that would help to re-use the code.
+movement of a single would make all other gotis an easy task.
+all other condition of killing and jota would be easy to compare once the movement on the track is done.
+////////////////////////////////////////////////////////////////////////////////////////////////////
+possible values of green player has been done just movement rh gai hai uski,
+isi trhan baki 2 colors ki bhi possibiles values find kr kar yahi conditions lgani hai
+marnai kai liyai conditions rhti hain plus jootai ki bhi
+
